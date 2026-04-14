@@ -7,11 +7,11 @@
 </head>
 <body>
         <header>
-            <h1>A Saga Ciclo das Trevas</h1>
+            <h1>Chicago Bulls</h1>
         </header>
         <div>
-            <p>A Saga Ciclo das Trevas conta a história de Arlen    
-                Fardos.    </p>
+            <p>Chicago Bulls jogadores    
+                            </p>
         </div>  
 </body>
 </html>
