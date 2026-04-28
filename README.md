@@ -10,7 +10,7 @@
             <h1>Chicago Bulls</h1>
         </header>
         <div>
-            <p>Chicago Bulls jogadores    
+            <p>O Chicago Bulls é um time de basquete profissional americano sediado em Chicago, Illinois. Os Bulls competem na National Basketball Association como um membro da Divisão Central da Conferência Leste da liga. A equipe foi fundada em 16 de janeiro de 1966 e jogou seu primeiro jogo durante a temporada de 1966/67    
                             </p>
         </div>  
 </body>
