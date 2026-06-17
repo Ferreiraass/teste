@@ -1,7 +1,33 @@
-    body{
+   body{
 
     background-color:#8B0000 ;
     color: rgb(255, 255, 255);
 
 
+    }
+
+    .capa{
+        color:white;
+            font-size: 20px;
+            
+    }
+    h1{
+        color: rgb(255, 255, 255);
+    }
+
+    #heroi{
+        display: flex;
+        padding: 200px;
+        gap: 10px;
+    }
+
+    .videos img{
+        opacity: 0.5;
+        height: 200px;
+    }
+
+    .videos img:hover{
+        opacity: 1.0;
+        border: 3px rgb(255, 255, 255);
+        
     }
